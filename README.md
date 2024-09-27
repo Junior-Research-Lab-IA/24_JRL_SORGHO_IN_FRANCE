@@ -1,6 +1,7 @@
 # 24_JRL_SORGHO_IN_FRANCE
 ## To do list : 
 - write and submit the literature review
+[Literature Review](https://docs.google.com/document/d/1maqKGOb0pNtcgtmfRoqeuS1RKDrpxyXamAO99LoPMxs/edit?usp=drivesdk)
 
 
 ## Introduction 
