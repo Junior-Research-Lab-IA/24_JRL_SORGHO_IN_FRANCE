@@ -6,7 +6,7 @@
 ## To do list : 
 - write and submit the literature review
 [Literature Review](https://docs.google.com/document/d/1maqKGOb0pNtcgtmfRoqeuS1RKDrpxyXamAO99LoPMxs/edit?usp=drivesdk)
-
+ - Prepare for the science sharing presentation
 
 ## Introduction 
 The introduction of sorghum in northern France raised a major issue : the lack of chilling tolerance of this crop, which is grown mainly in tropical and subtropical regions of Asia and Africa. However, the cultivation of sorghum could be an interesting alternative to maize. Due to Climate Change, more and more areas in France will have to face constraints on water resources. Yet, sorghum is considered a more robust crop than maize associated with a high water consumption during the summer.  Therefore, there’s a need to target for selection the current varieties’ chilling tolerance in a cold scenario similar to the complex agronomic conditions encountered in France. 
