@@ -1,5 +1,6 @@
 # 24_JRL_SORGHO_IN_FRANCE
-![Sorghum Plants](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplant%2Fsorghum-grain&psig=AOvVaw1uBxd39KM8atdb3JiTf968&ust=1727515353574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiF46fm4ogDFQAAAAAdAAAAABAE)
+![image](https://github.com/user-attachments/assets/5f924e71-0faa-448c-bcc4-3ce5cd179216)
+
 ## To do list : 
 - write and submit the literature review
 [Literature Review](https://docs.google.com/document/d/1maqKGOb0pNtcgtmfRoqeuS1RKDrpxyXamAO99LoPMxs/edit?usp=drivesdk)
