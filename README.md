@@ -1,6 +1,8 @@
 # 24_JRL_SORGHO_IN_FRANCE
 ![image](https://github.com/user-attachments/assets/5f924e71-0faa-448c-bcc4-3ce5cd179216)
 
+## Time-table 
+[Link for the timetable](https://docs.google.com/spreadsheets/d/12e3Ik2symUzw14I2OKOVidBXAOzjkLjfP9eHCdEs7jQ/edit?gid=637392498#gid=637392498)
 ## To do list : 
 - write and submit the literature review
 [Literature Review](https://docs.google.com/document/d/1maqKGOb0pNtcgtmfRoqeuS1RKDrpxyXamAO99LoPMxs/edit?usp=drivesdk)
